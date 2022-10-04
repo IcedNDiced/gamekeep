@@ -1,0 +1,131 @@
+﻿Gamekeep.
+
+
+Doom https://raz0red.github.io/webprboom/
+
+
+Street Fighter https://gamedev8.github.io/js-sfa/default.htm
+
+
+Cloudretro https://cloudretro.io/
+
+
+Osu Mania! V3 https://forkphorus.github.io/app.html?id=220672247
+
+
+Slither.io https://forkphorus.github.io/app.html?id=108566337
+
+
+Diep.io v1.5 https://forkphorus.github.io/app.html?id=131270192
+
+
+Astray v1.0 https://wwwtyro.github.io/Astray/
+
+
+3 Candies https://photonstorm.github.io/gamewebmonetization/game/
+
+
+3D Chess https://vechus.github.io/3d_chess/html/index.html
+
+
+Tetris https://konstantin84ukr.github.io/Tetris_WebGL/
+
+
+The World’s Hardest Game https://cbgamesdev.github.io/chilibowlflash/hardestgame.html
+
+
+Meat Boy 1 https://cbgamesdev.github.io/chilibowlflash/meatboy.html
+
+
+Cookie Clicker https://cbgamesdev.github.io/chilibowlflash/cookie/index.html
+
+
+Minecraft Classic https://cbgamesdev.github.io/chilibowlflash/minecrap/index.html?
+
+
+2048 https://cbgamesdev.github.io/chilibowlflash/2048/index.html
+
+
+Dinosaur Game https://cbgamesdev.github.io/chilibowlflash/googdino/index.html
+
+
+Mari0 https://cbgamesdev.github.io/chilibowlflash/mario/index.html
+
+
+Slope https://cbgamesdev.github.io/chilibowlflash/slope/index.html
+
+
+Super Mario 64 (Idk if it works)https://cbgamesdev.github.io/chilibowlflash/sm64/index.html
+
+
+Better Tetris https://cbgamesdev.github.io/chilibowlflash/tetris.html
+
+
+Papa’s Pizzaria https://cbgamesdev.github.io/chilibowlflash/papapizza.html
+
+
+OG Run https://cbgamesdev.github.io/chilibowlflash/run.html
+
+
+Stealing The Diamond https://cbgamesdev.github.io/chilibowlflash/stealing.html
+
+
+Escaping The Prison https://cbgamesdev.github.io/chilibowlflash/bank.html
+
+
+Wolfenstein 3D https://cbgamesdev.github.io/chilibowlflash/wolfen/index.html
+
+
+Mario 63 https://cbgamesdev.github.io/chilibowlflash/mario63.html
+
+
+Pong+ https://cbgamesdev.github.io/chilibowlflash/pong.html
+
+
+Astroids https://cbgamesdev.github.io/chilibowlflash/assroid.html
+
+
+BlackJack https://cbgamesdev.github.io/chilibowlflash/blackjack/index.html
+
+
+OG Super Mario https://cbgamesdev.github.io/chilibowlflash/miscgame/mariones.html
+
+
+Subway Surfers https://starlit-brigadeiros-2a8db1.netlify.app/projects/subway-surfers/index.html
+
+
+Vex 6 https://starlit-brigadeiros-2a8db1.netlify.app/projects/vex6/index.html
+
+
+Backrooms Game https://starlit-brigadeiros-2a8db1.netlify.app/projects/backrooms/index.html
+
+
+Bloxors https://starlit-brigadeiros-2a8db1.netlify.app/projects/bloxors/index.html
+
+
+CS:GO Clicker https://starlit-brigadeiros-2a8db1.netlify.app/projects/csgo-clicker/index.html
+
+
+Duck Life 4 https://starlit-brigadeiros-2a8db1.netlify.app/projects/ducklife4/index.html
+
+
+Google Snake https://starlit-brigadeiros-2a8db1.netlify.app/projects/google-snake/index.html
+
+
+Retro Bowl https://starlit-brigadeiros-2a8db1.netlify.app/projects/retro-bowl/index.html
+
+
+Webretro https://starlit-brigadeiros-2a8db1.netlify.app/projects/webretro/roms.html
+
+
+World’s Hardest Game https://starlit-brigadeiros-2a8db1.netlify.app/projects/
+World’s Hardest Game 2 https://starlit-brigadeiros-2a8db1.netlify.app/projects/
+
+
+
+
+Main Repos (For more advanced people 😎)
+https://starlit-brigadeiros-2a8db1.netlify.app/projects.html
+https://cbgamesdev.github.io/chilibowlflash/
+https://forkphorus.github.io/
+Other repos have 1 or less games
