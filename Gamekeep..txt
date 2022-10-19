@@ -2,6 +2,7 @@
 
 https://3kho.github.io/
 
+
 Doom https://raz0red.github.io/webprboom/
 
 
@@ -92,37 +93,7 @@ BlackJack https://cbgamesdev.github.io/chilibowlflash/blackjack/index.html
 OG Super Mario https://cbgamesdev.github.io/chilibowlflash/miscgame/mariones.html
 
 
-Subway Surfers https://starlit-brigadeiros-2a8db1.netlify.app/projects/subway-surfers/index.html
-
-
-Vex 6 https://starlit-brigadeiros-2a8db1.netlify.app/projects/vex6/index.html
-
-
-Backrooms Game https://starlit-brigadeiros-2a8db1.netlify.app/projects/backrooms/index.html
-
-
-Bloxors https://starlit-brigadeiros-2a8db1.netlify.app/projects/bloxors/index.html
-
-
-CS:GO Clicker https://starlit-brigadeiros-2a8db1.netlify.app/projects/csgo-clicker/index.html
-
-
-Duck Life 4 https://starlit-brigadeiros-2a8db1.netlify.app/projects/ducklife4/index.html
-
-
-Google Snake https://starlit-brigadeiros-2a8db1.netlify.app/projects/google-snake/index.html
-
-
-Retro Bowl https://starlit-brigadeiros-2a8db1.netlify.app/projects/retro-bowl/index.html
-
-
-Webretro https://starlit-brigadeiros-2a8db1.netlify.app/projects/webretro/roms.html
-
-
-World’s Hardest Game https://starlit-brigadeiros-2a8db1.netlify.app/projects/
-World’s Hardest Game 2 https://starlit-brigadeiros-2a8db1.netlify.app/projects/
-
-
+Scribble.rs https://scribblers-official.herokuapp.com/
 
 
 Main Repos (For more advanced people 😎)
