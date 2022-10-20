@@ -96,6 +96,9 @@ OG Super Mario https://cbgamesdev.github.io/chilibowlflash/miscgame/mariones.htm
 Scribble.rs https://scribblers-official.herokuapp.com/
 
 
+Paper Minecraft (2d Minecrfaft) https://forkphorus.github.io/app.html?id=10128407
+
+
 Main Repos (For more advanced people 😎)
 https://starlit-brigadeiros-2a8db1.netlify.app/projects.html
 https://cbgamesdev.github.io/chilibowlflash/
