@@ -107,6 +107,26 @@ Griffpatch's Tower Defence https://forkphorus.github.io/app.html?id=15200040
 
 Car Chase https://forkphorus.github.io/app.html?id=521507261
 
+
+Galaxy Sprint https://cdn.i-ready.com/instruction/reward-games/master/49/game-lanerunner/
+
+
+Dig Site https://cdn.i-ready.com/instruction/reward-games/master/49/game-minedigger/
+
+
+Wizard Pinball https://cdn.i-ready.com/instruction/reward-games/master/49/game-bubbles/
+
+
+Cat Stacker https://cdn.i-ready.com/instruction/game-catstacker/1.3.x/4/
+
+
+Begooped https://cdn.i-ready.com/instruction/game-begooped/1.3.x/2/
+
+
+
+Path Spinners https://cdn.i-ready.com/instruction/game-hpr/1.4.x/2/
+
+
 Main Repos (For more advanced people 😎)
 https://starlit-brigadeiros-2a8db1.netlify.app/projects.html
 https://cbgamesdev.github.io/chilibowlflash/
