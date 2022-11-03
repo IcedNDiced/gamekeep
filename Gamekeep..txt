@@ -126,6 +126,9 @@ Begooped https://cdn.i-ready.com/instruction/game-begooped/1.3.x/2/
 Path Spinners https://cdn.i-ready.com/instruction/game-hpr/1.4.x/2/
 
 
+Terraria https://icedndiced.github.io/osu2/
+
+
 Main Repos (For more advanced people 😎)
 https://starlit-brigadeiros-2a8db1.netlify.app/projects.html
 https://cbgamesdev.github.io/chilibowlflash/
